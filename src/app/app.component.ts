@@ -11,6 +11,6 @@ export class AppComponent {
   personas: Persona[] = [
     new Persona('Juan','Perez'),
     new Persona('Laura','Juarez'),
-    
+    new Persona('Hector','Vasquez')
   ];
 }
